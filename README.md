@@ -1,4 +1,4 @@
-# MapReduce-Recommendation-Program
+# MapReduce-Item-Recommendation-Program
 The following mapper and reducer were submitted as an assignment for a Big Data: High-Performance Computing class offered through the M.S. Data Science program at the University of Wisconsin-Eau Claire.
 
 A MapReduce Python program for recommending products with respect to what's in a shoppers cart.
